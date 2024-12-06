@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/406982998309873598
+creation_time: 1733488884915
+experiment_id: '406982998309873598'
+last_update_time: 1733488884915
+lifecycle_stage: active
+name: HousingPricePrediction
